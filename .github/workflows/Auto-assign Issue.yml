@@ -11,5 +11,6 @@ jobs:
             - name: 'Auto-assign issue'
               uses: pozil/auto-assign-issue@v1
               with:
-                  assignees:
+                  repo-token: ${{ secrets.MY_PERSONAL_ACCESS_TOKEN }}
+                  teams: algorithm study
                   allowSelfAssign: true

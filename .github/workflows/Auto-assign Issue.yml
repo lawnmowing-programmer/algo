@@ -14,4 +14,3 @@ jobs:
                   repo-token: ${{ secrets.AUTO_ASSIGN_ACCESS_TOKEN }}
                   teams: algorithm study
                   abortIfPreviousAssignees: true
-                  allowSelfAssign: true

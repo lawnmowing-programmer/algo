@@ -1,6 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,c++,java,python,swift,go,visualstudio,visualstudiocode,pycharm,xcode,intellij,venv
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,c++,java,python,swift,go,visualstudio,visualstudiocode,pycharm,xcode,intellij,venv
 
+###
+
 ### C ###
 # Prerequisites
 *.d
@@ -110,6 +112,8 @@ go.work
 ### Intellij ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+.idea
 
 # User-specific stuff
 .idea/**/workspace.xml

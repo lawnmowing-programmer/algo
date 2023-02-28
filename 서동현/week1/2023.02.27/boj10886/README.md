@@ -1,3 +1,3 @@
 [BOJ 10886 0 = not cute / 1 = cute] (https://www.acmicpc.net/problem/10886)
 solved.ac Bronze III
-°á°ú : [¸Â¾Ò½À´Ï´Ù!!] (http://boj.kr/f781450bba8e4f0fb3ebfaff387c6d51)
+ê²°ê³¼ : [ë§žì•˜ìŠµë‹ˆë‹¤!!](https://www.acmicpc.net/source/56612728)

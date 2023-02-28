@@ -1,3 +1,3 @@
-[BOJ 2501 ¾à¼ö ±¸ÇÏ±â] (https://www.acmicpc.net/problem/2501)
-solved.ac Bronze III
-°á°ú : [¸Â¾Ò½À´Ï´Ù!!] (http://boj.kr/cd4a5b07820b45d6b3b4d39dc8bd6ac6)
+[BOJ 2501 ì•½ìˆ˜ êµ¬í•˜ê¸°] (https://www.acmicpc.net/problem/2501)  
+solved.ac Bronze III  
+ê²°ê³¼ : [ë§žì•˜ìŠµë‹ˆë‹¤!!] (http://boj.kr/cd4a5b07820b45d6b3b4d39dc8bd6ac6)

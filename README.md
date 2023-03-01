@@ -1,8 +1,8 @@
 ## :people_hugging: Study Team
 
-|<img src="https://avatars.githubusercontent.com/u/58943980">|<img src="https://avatars.githubusercontent.com/u/126316476">|<img src="https://avatars.githubusercontent.com/u/48782012">|<img src="https://avatars.githubusercontent.com/u/66724166">|<img src="https://avatars.githubusercontent.com/u/33440010">|<img src="https://avatars.githubusercontent.com/u/76419137">|<img src="https://avatars.githubusercontent.com/u/108206977">|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|[김형훈](https://github.com/cryscham123)|[Son Seulki](https://github.com/dev-zoha)|[Seokmin Hong](https://github.com/hsmint)|[임현순](https://github.com/Hyun-Soon)|[Minjae Kim](https://github.com/minjae9610)|[이주현](https://github.com/way-code)|[Donghyeon Seo](https://github.com/west-eastH)|
+|<img src="https://avatars.githubusercontent.com/u/58943980">|<img src="https://avatars.githubusercontent.com/u/126316476">|<img src="https://avatars.githubusercontent.com/u/67067346">|<img src="https://avatars.githubusercontent.com/u/48782012">|<img src="https://avatars.githubusercontent.com/u/66724166">|<img src="https://avatars.githubusercontent.com/u/33440010">|<img src="https://avatars.githubusercontent.com/u/76419137">|<img src="https://avatars.githubusercontent.com/u/108206977">|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|[김형훈](https://github.com/cryscham123)|[Son Seulki](https://github.com/dev-zoha)|[Hojun-Cho](https://github.com/Hojun-Cho)|[Seokmin Hong](https://github.com/hsmint)|[임현순](https://github.com/Hyun-Soon)|[Minjae Kim](https://github.com/minjae9610)|[이주현](https://github.com/way-code)|[Donghyeon Seo](https://github.com/west-eastH)|
 
 
 ## Git Commit Message

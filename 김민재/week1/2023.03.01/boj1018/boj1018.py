@@ -7,7 +7,7 @@ color_check = [[0 for n in range(N)] for m in range(M)]
 
 for m in range(M):
     for n in range(N):
-        color_check[m][n] += ('W' if (m + n) % 2 == 0 else 'B') != board[m][n]
+        color_check[m][n] += (('W' if (m + n) % 2 == 0 else 'B') != board[m][n])
 
 result = []
 

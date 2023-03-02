@@ -35,4 +35,4 @@ O\(N\)
 
 ### 결과
 
-[맞았습니다!!](https://www.acmicpc.net/source/56689695)
+[맞았습니다!!](http://boj.kr/e88d34da5bc748d587e186af8463aec6)

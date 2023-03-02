@@ -2,4 +2,4 @@
 
 solved.ac GOLD II
 
-결과 : [맞았습니다!!](http://boj.kr/a6ef6b746dd7449fb782e26edbfc0b08)
+결과 : [맞았습니다!!](http://boj.kr/a456132a6c47403b84e46311ac501cb8)

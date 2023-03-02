@@ -35,4 +35,4 @@ sys.stdout.write(str(max_cable_length))
 
 ## 결과
 
-결과 : [맞았습니다!!](http://boj.kr/afa3978ef30b42e4a1233c7c12bdbf3c)
+결과 : [맞았습니다!!](http://boj.kr/5e7672c1c5a54411a1ea45eba4561e6f)

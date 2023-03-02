@@ -2,4 +2,4 @@
 
 solved.ac SILVER II
 
-결과 : [맞았습니다!!](https://www.acmicpc.net/source/56701534)
+결과 : [맞았습니다!!](http://boj.kr/a6ef6b746dd7449fb782e26edbfc0b08)

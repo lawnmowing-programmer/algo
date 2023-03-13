@@ -20,3 +20,4 @@ class Solution:
             result.append(root.val)
             root = root.right
         return (result)
+        

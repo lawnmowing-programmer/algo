@@ -5,8 +5,8 @@
 |[최효종](https://github.com/seungwonme)|[김형훈](https://github.com/cryscham123)|[Son Seulki](https://github.com/dev-zoha)|[Hojun-Cho](https://github.com/Hojun-Cho)|[Seokmin Hong](https://github.com/hsmint)|
 |<img src="https://avatars.githubusercontent.com/u/66724166">|<img src="https://avatars.githubusercontent.com/u/33440010">|<img src="https://avatars.githubusercontent.com/u/106901987">|<img src="https://avatars.githubusercontent.com/u/76419137">|<img src="https://avatars.githubusercontent.com/u/108206977">|
 |[임현순](https://github.com/Hyun-Soon)|[Minjae Kim](https://github.com/minjae9610)|[안승원](https://github.com/seungwonme)|[이주현](https://github.com/way-code)|[Donghyeon Seo](https://github.com/west-eastH)|
-|<img src="https://avatars.githubusercontent.com/u/127705151">|<img src="https://avatars.githubusercontent.com/u/85366633">|
-|[sunko](https://github.com/sunko-seoul)|[안현준](https://github.com/GCgang)|
+|<img src="https://avatars.githubusercontent.com/u/127705151">|<img src="https://avatars.githubusercontent.com/u/85366633">|<img src="https://avatars.githubusercontent.com/u/32762192">|<img src="https://avatars.githubusercontent.com/u/39961274">|
+|[sunko](https://github.com/sunko-seoul)|[안현준](https://github.com/GCgang)|[kelee](https://github.com/lkeonwoo94)|[jwee](https://github.com/weejihye)|
 
 
 

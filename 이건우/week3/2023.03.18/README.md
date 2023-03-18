@@ -1,6 +1,6 @@
 # Study join 
 
-[x] write [study env](https://github.com/lawnmowing-programmer/algo/discussions/181)
+- [x] write [study env](https://github.com/lawnmowing-programmer/algo/discussions/181)
 
 [x] read [branch naming](https://github.com/lawnmowing-programmer/algo/discussions/6)
 

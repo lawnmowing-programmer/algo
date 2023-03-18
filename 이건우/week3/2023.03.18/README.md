@@ -6,5 +6,5 @@
 
 - [x] read [Others Prj dashboard](https://github.com/orgs/lawnmowing-programmer/projects/1/views/2)
 
-[x] read [Commit convention](https://github.com/lkeonwoo94/algo/edit/main/README.md)
+- [x] read [Commit convention](https://github.com/lkeonwoo94/algo/edit/main/README.md)
 

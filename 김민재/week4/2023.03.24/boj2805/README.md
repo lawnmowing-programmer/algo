@@ -1,4 +1,4 @@
-# [BoJ 2805 벌집](https://www.acmicpc.net/problem/2805)
+# [BoJ 2805 나무 자르기](https://www.acmicpc.net/problem/2805)
 
 solved.ac Silver II
 

@@ -36,6 +36,45 @@ void fire(int L, int x, int y, int i)
 	fire(L, x + (1<<i), y + (1<<i), i - 1);
 }
 
+// bfs 특성상 indent가 깊습니다.
+// 더 줄일수가 없네요 ㅜㅜ
+pair<int,int> bfs()
+{
+	int ans_1 = 0;
+	int ans_2 = 0;
+	for (int i=1; i<=(1<<N); i++)
+		for (int j=1; j<=(1<<N); j++)
+		{
+			ans_1 += A[i][j];
+			if (vis[i][j] || A[i][j] == 0)
+				continue ;
+			queue<pair<int,int>> q;
+			vis[i][j] = true;
+			q.push({i,j});
+			int cnt = 1;
+			while (!q.empty())
+			{
+				auto [x,y] = q.front();
+				q.pop();
+				for (int dir=0; dir<4; dir++)
+				{
+					int nx = x + dx[dir];
+					int ny = y + dy[dir];
+					if (nx < 1 || ny < 1 || nx > (1<<N) || ny > (1<<N))
+						continue ;
+					if (vis[nx][ny] || A[nx][ny] == 0)
+						continue ;
+					cnt++;
+					vis[nx][ny] = true;
+					q.push({nx,ny});
+				}
+			}
+			ans_2 = max(ans_2, cnt);
+		}
+	// pair 구조체를 만들어주는 std 내장 함수
+	return (make_pair(ans_1, ans_2));
+}
+
 void melt()
 {
 	// 얼음이 동시에 놓아야 하기 때문에
@@ -78,37 +117,6 @@ int main()
 		fire(L - 1, 1, 1, N - 1);
 		melt();
 	}
-	int ans_1 = 0;
-	int ans_2 = 0;
-	// bfs를 이용해서 가장 큰 칸의 크기를 구해준다.
-	for (int i=1; i<=(1<<N); i++)
-		for (int j=1; j<=(1<<N); j++)
-		{
-			ans_1 += A[i][j];
-			if (vis[i][j] || A[i][j] == 0)
-				continue ;
-			queue<pair<int,int>> q;
-			vis[i][j] = true;
-			q.push({i,j});
-			int cnt = 1;
-			while (!q.empty())
-			{
-				auto [x,y] = q.front();
-				q.pop();
-				for (int dir=0; dir<4; dir++)
-				{
-					int nx = x + dx[dir];
-					int ny = y + dy[dir];
-					if (nx < 1 || ny < 1 || nx > (1<<N) || ny > (1<<N))
-						continue ;
-					if (vis[nx][ny] || A[nx][ny] == 0)
-						continue ;
-					cnt++;
-					vis[nx][ny] = true;
-					q.push({nx,ny});
-				}
-			}
-			ans_2 = max(ans_2, cnt);
-		}
-	cout << ans_1 << '\n' << ans_2;
+	pair<int,int> ans = bfs();
+	cout << ans.first << '\n' << ans.second;
 }

@@ -5,8 +5,8 @@
 |[Minjae Kim](https://github.com/minjae9610)|[최효종](https://github.com/bluedog129)|[김형훈](https://github.com/cryscham123)|[Hojun-Cho](https://github.com/Hojun-Cho)|[Seokmin Hong](https://github.com/hsmint)|
 |![image](https://avatars.githubusercontent.com/u/66724166)|![image](https://avatars.githubusercontent.com/u/106901987)|![image](https://avatars.githubusercontent.com/u/76419137)|![image](https://avatars.githubusercontent.com/u/127705151)|![image](https://avatars.githubusercontent.com/u/85366633)|
 |[임현순](https://github.com/Hyun-Soon)|[안승원](https://github.com/seungwonme)|[이주현](https://github.com/way-code)|[sunko](https://github.com/sunko-seoul)|[안현준](https://github.com/GCgang)|
-|![image](https://avatars.githubusercontent.com/u/32762192)|![image](https://avatars.githubusercontent.com/u/39961274)|
-|[kelee](https://github.com/lkeonwoo94)|[jwee](https://github.com/weejihye)|
+|![image](https://avatars.githubusercontent.com/u/32762192)|![image](https://avatars.githubusercontent.com/u/39961274)|![image](https://avatars.githubusercontent.com/u/107744617)|
+|[kelee](https://github.com/lkeonwoo94)|[jwee](https://github.com/weejihye)|[minju](https://github.com/democracyKim)|
 
 
 

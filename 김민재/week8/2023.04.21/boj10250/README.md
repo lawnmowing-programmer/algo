@@ -1,4 +1,4 @@
-# [BoJ 10250 직각삼각형](https://www.acmicpc.net/problem/10250)
+# [BoJ 10250 ACM 호텔](https://www.acmicpc.net/problem/10250)
 
 solved.ac Bronze III
 

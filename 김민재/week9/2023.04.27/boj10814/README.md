@@ -1,4 +1,4 @@
-# [BoJ 10814 제로](https://www.acmicpc.net/problem/10814)
+# [BoJ 10814 나이순 정렬](https://www.acmicpc.net/problem/10814)
 
 solved.ac Silver V
 

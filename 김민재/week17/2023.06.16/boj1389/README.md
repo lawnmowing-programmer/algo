@@ -43,4 +43,4 @@ sys.stdout.write(str(min(enumerate(graph), key=lambda x: sum(x[1]))[0] + 1))
 
 ## 결과
 
-결과 : [맞았습니다!!](http://boj.kr/682d08b9ecc34940a1017206c681b552)
+결과 : [맞았습니다!!](http://boj.kr/ef01b00695e94db9b63ef5e6690c5b18)
